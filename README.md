@@ -23,7 +23,7 @@ Corporate-Finance/
 
 We need to finish one case study with our group members. The detailed solution can be found in `GroupCase/` directory.
 
-### :back: Bacground
+### Bacground
 
 :houses:  **Bacground of Company**
 
@@ -54,7 +54,7 @@ We need to finish one case study with our group members. The detailed solution c
 - **对现有产品的的侵蚀**。可能使得公司每年损失 80 万比索的税后现金流
 - **收入和资本利得的税率均为 30%**。
 
-### :question: Questions
+### Questions
 
 :writing_hand: Suppose you were hired as the CFO for Bebida Sol. Would you recommend Antonio to take the project? Can you work out the Project Cash Flows using the information estimated by the consultant? Consider the following questions, and try to conduct quantitative analysis with Excel (see an example template uploaded to our course website).
 
@@ -65,7 +65,7 @@ We need to finish one case study with our group members. The detailed solution c
    - the erosion of existing soda sales?
 2. Calculate the project’s NPV, IRR, payback period, and profitability index.
 
-### :page_facing_up: Solution Ideas
+### Solution Ideas
 
 :pencil: The solution is under the `GroupCase/`. You can read for the detail.
 

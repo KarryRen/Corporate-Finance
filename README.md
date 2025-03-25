@@ -9,7 +9,7 @@ Corporate-Finance/
     ├── Refs./ # Some references.
     └── Group2_Case Materials/ # The solution of my group.
 ├── GroupProject/ # The case project.
-├── Reviews/ # The files for reviewing of MidTerm and Final.
+├── Notes/ # The notes for reviewing of MidTerm and Final.
 └── README.md # The framework markdown file.
 ```
 

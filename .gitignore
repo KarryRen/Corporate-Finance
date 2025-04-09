@@ -1,6 +1,7 @@
 # Self-Edit
 Course-Management-System/
 .DS_store
+Refs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

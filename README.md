@@ -75,6 +75,8 @@ We need to finish one case study with our group members. The detailed solution c
 
 We need to finish the project with our group members. The details can be found in `GroupProject/` file.
 
+组织 Project 应该更多地发挥主观能动性，两种形式，基于核心进行外延是最经济实惠的方式，做 PPT 的过程应该下放，框架梳理应该尽早，应该尽早组织预先 pre，不要追求太广，太完美，就基于核心业务往外搞就可以。
+
 
 
 ## Reviews

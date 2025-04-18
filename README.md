@@ -17,6 +17,8 @@ Corporate-Finance/
 
 ## Course Framework
 
+See the cheatsheet please.
+
 
 
 ## Group Case
